@@ -118,7 +118,7 @@ Simply enter these values when prompted to see the A* algorithm in action.
      ros2 launch turtlebot3_project3 competition_world.launch.py
      ```
 
-5. **Run the A* Node**
+5. **Run the A * Node**
 
    - In another new terminal tab, source the workspace, and run the A* node with:
      ```bash
