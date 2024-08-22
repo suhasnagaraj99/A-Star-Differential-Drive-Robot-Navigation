@@ -88,7 +88,7 @@ Simply enter these values when prompted to see the A* algorithm in action.
 
 ### Prerequisites
 
-- ROS 2 installed and properly configured on your system.
+- ROS2 Humble and Gazebo installed and properly configured on your system.
 - Required dependencies installed. (Make sure to install all necessary ROS 2 packages and Python dependencies.)
 
 ### Setup Instructions
