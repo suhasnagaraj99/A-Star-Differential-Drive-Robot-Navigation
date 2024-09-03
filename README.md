@@ -5,6 +5,8 @@ This repository contains the implementation of the A* Algorithm for differential
 
 ## 1. Pygame 2D Simulation
 
+![Video GIF](https://github.com/suhasnagaraj99/A-Star-Differential-Drive-Robot-Navigation/blob/main/proj3p2part1.gif)
+
 ### Assumptions and Map Description
 - The robot is assumed to be a mobile robot with some radius.
 - The robot clearance is given as input
@@ -81,6 +83,8 @@ You can use the following demo inputs to test the code:
 Simply enter these values when prompted to see the A* algorithm in action.
 
 ## 2. ROS2 Humble & Gazebo Turtlebot3 3D Simulation
+
+![Video GIF](https://github.com/suhasnagaraj99/A-Star-Differential-Drive-Robot-Navigation/blob/main/proj3p2part2.gif)
 
 - Part 2 (current) is an expansion of the Part 1 of this project (where the path was simulated in 2d using pygame).
 - In addition to generating the path, the robot is made to follow the path in a simulation environment (Gazebo).
